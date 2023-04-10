@@ -8,16 +8,16 @@ Assignment</br>
 Build a PyTorch artificial neural network model to predict whether
 certain mushrooms are poisonous.</br>
 The project should be written in a Google Collaborative notebook and contain:</br>
-• Description of the selected model.
-• Code for reading and processing (pre-processing) the input data for training the network.
+• Description of the selected model.</br>
+• Code for reading and processing (pre-processing) the input data for training the network.</br>
 • Code to train and test the created model on given training inputs
-and testing.
+and testing.</br>
 • Comparison of different models and training parameters such as number and size of
 hidden layers, number of epochs, learning rate, as well as a table,
 comparing the different results and showing the accuracy of
-the different models.
-• Graphs of model loss and accuracy.
-• Conclude which model and parameters work best to solve the problem.
+the different models.</br>
+• Graphs of model loss and accuracy.</br>
+• Conclude which model and parameters work best to solve the problem.</br>
 • To create an output file result.csv that contains the predicted values from
 the test data set.</br>
 The accuracy of the models should be calculated as a percentage - how much of
@@ -25,7 +25,7 @@ the predictions match the labels in the validation dataset. The resulting result
 to convert to a decimal between 0 and 1 (0.5 means 50% accuracy, 0.95 – 95% accuracy).
 datasets</br>
 Two files are given:</br>
-• Training dataset
+• Training dataset</br>
 http://ml.monov.eu/mushrooms/train_data.csv which contains a total of 21 columns:
 column "id" with the identifier of the mushrooms, column "poisonous" with information about whether the mushroom
 is poisonous or not (y – the mushroom is poisonous, n – the mushroom is not poisonous) and 19 columns with different
