@@ -25,11 +25,11 @@ the predictions match the labels in the validation dataset. The resulting result
 to convert to a decimal between 0 and 1 (0.5 means 50% accuracy, 0.95 – 95% accuracy).
 datasets</br>
 Two files are given:</br>
-• Training dataset</br>
+• Training dataset
 http://ml.monov.eu/mushrooms/train_data.csv which contains a total of 21 columns:
 column "id" with the identifier of the mushrooms, column "poisonous" with information about whether the mushroom
 is poisonous or not (y – the mushroom is poisonous, n – the mushroom is not poisonous) and 19 columns with different
-parameters (properties / features) of mushrooms. Example data:</br>
+parameters (properties / features) of mushrooms.</br> Example data:</br>
 id poisonous cap-diameter ..... ring-type habitat season
 134 y 4.99 f h a</br>
 962 n 19.53 f d a</br>
